@@ -47,7 +47,7 @@ This is a simple link shortening app created using React and Bitly API.
 
 ## Development
 
-[Read a tutorial on how I built this app]()
+[Read a tutorial on how I built this app](https://dev.to/amissah17/how-to-build-a-link-shortening-app-with-react-and-bitly-api-4poe)
 
 ## Licence
 
